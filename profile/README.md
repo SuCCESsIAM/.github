@@ -15,4 +15,4 @@ This is the home of the SuCCESs integrated assessment model (IAM) and it's land-
 
 SuCCESs IAM is currently under development (the development repository is private), but will be made public soon (later during 2024).
 
-[CLASH is onpely available](https://github.com/SuCCESsIAM/CLASH) and described in detail in the paper "CLASH - Climate-responsive Land Allocation model with carbon Storage and Harvests", published in Geoscientific Model Development: https://gmd.copernicus.org/articles/17/3041/2024/
+[CLASH is onpely available](https://github.com/SuCCESsIAM/CLASH) and described in detail in the paper ["CLASH - Climate-responsive Land Allocation model with carbon Storage and Harvests", published in Geoscientific Model Development](https://gmd.copernicus.org/articles/17/3041/2024/).
