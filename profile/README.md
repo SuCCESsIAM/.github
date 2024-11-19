@@ -13,7 +13,7 @@
 
 This is the home of the SuCCESs integrated assessment model (IAM) and it's land-use module CLASH.
 
-SuCCESs is a lightweight, global IAM that covers energy, land-use, materials and climate. It's an intertemporal partial equalibrium model that finds the minimum cost solution to satisfy projected demands for energy, transportation, materials and food, while also satisfying other constraints, like climate targets. The model runs from 2020 to 2100 in 10-year time steps.
+SuCCESs is a lightweight, global IAM that covers energy, land-use, materials and climate. It's an intertemporal partial equilibrium model that finds the minimum cost solution to satisfy projected demands for energy, transportation, materials and food, while also satisfying other constraints, like climate targets. The model runs from 2020 to 2100 in 10-year time steps.
 
 Both SuCCESs and CLASH are written in GAMS, and you additionally need an optimization solver (preferably an LP solver) to run SuCCESs. CLASH is not primarily meant to run stand-alone, but linked to an IAM (as it in our case is with SuCCESs).
 
