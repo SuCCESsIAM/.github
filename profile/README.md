@@ -15,9 +15,9 @@ This is the home of the SuCCESs integrated assessment model (IAM) and it's land-
 
 SuCCESs is a lightweight, global IAM that covers energy, land-use, materials and climate. It's an intertemporal partial equilibrium model that finds the minimum cost solution to satisfy projected demands for energy, transportation, materials and food, while also satisfying other constraints, like climate targets. The model runs from 2020 to 2100 in 10-year time steps.
 
-Both SuCCESs and CLASH are written in GAMS, and you additionally need an optimization solver (preferably an LP solver) to run SuCCESs. CLASH is not primarily meant to run stand-alone, but linked to an IAM (as it in our case is with SuCCESs).
+Both SuCCESs and CLASH are written in GAMS, and you need the GAMS software and an optimization solver (preferably an LP solver) to run SuCCESs. CLASH is not primarily meant to run stand-alone, but linked to an IAM (as it in our case is with SuCCESs).
 
-[SuCCESs IAM is available here](https://github.com/SuCCESsIAM/SuCCESsIAM) and is described in the paper [SuCCESs – a global IAM for exploring the interactions between energy, materials, land-use and climate systems in long-term scenarios](https://gmd.copernicus.org/preprints/gmd-2024-196/) (preprint).
+[SuCCESs IAM is available here](https://github.com/SuCCESsIAM/SuCCESsIAM) and is described in the paper ["SuCCESs – a global IAM for exploring the interactions between energy, materials, land-use and climate systems in long-term scenarios", published in Geoscientific Model Development](https://gmd.copernicus.org/articles/18/4805/2025/).
 
 [A python toolbox](https://github.com/SuCCESsIAM/SuCCESsIAM-toolbox) is also available for post-processing and plotting results from the model. This should give ideas and a starting point for new users for what the model can do.
 
